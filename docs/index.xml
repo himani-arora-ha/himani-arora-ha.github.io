@@ -29,12 +29,12 @@ Google Scholar: Visit my profile here</description>
     
     <item>
       <title></title>
-      <link>/sections/projects/</link>
+      <link>/sections/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/sections/projects/</guid>
-      <description>I have several projects with PhD students at HZDR.
- This website is cloned from Jonathan Old. You can find the source code on my Github repository. Please feel free to copy it for your own website.</description>
+      <guid>/sections/gallery/</guid>
+      <description>This is a word.
+*{:height=&amp;ldquo;10%&amp;rdquo; width=&amp;ldquo;10%&amp;quot;} ** This website is cloned from Jonathan Old. You can find the source code on my Github repository. Please feel free to copy it for your own website.</description>
     </item>
     
   </channel>

@@ -1,4 +1,9 @@
-I have several projects with PhD students at HZDR.
+This is a <em>word</em> .
+
+ *![Image](adma_backcover.jpg){:height="10%" width="10%"}
+ *![Image2](https://himani-arora-ha.github.io/himani-arora-profile.jpeg)
+ *![Image3](wald.jpg)
+
 
 ---
 
