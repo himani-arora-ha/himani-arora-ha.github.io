@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Jonathan Old</title>
+    <title>Homepage on Himani Arora, Ph.D.</title>
     <link>/</link>
-    <description>Recent content in Homepage on Jonathan Old</description>
+    <description>Recent content in Homepage on Himani Arora, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -11,8 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/aboutme/</guid>
-      <description>Welcome to my website. I am an Predoc with STICERD at the LSE, working with Robin Burgess and Oriana Bandiera. I am interested in political economy and development economics, and have previously worked on conflict and political reservations in India, democratic transitions and state repression, and longevity.
-I plan to start a PhD in Economics in Fall 2021.
+      <description>Welcome to my website. I am a postdoctoral researcher at the Helmholtz Research Center HZDR. I received my Ph.D. in Physics from TU Dresden in 2020. My research is about ultra-thin semiconductors and their electronic applications.
 Curriculum Vitae (Version November 2020)</description>
     </item>
     
@@ -22,29 +21,10 @@ Curriculum Vitae (Version November 2020)</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/contact/</guid>
-      <description>Email: j.d.old@lse.ac.uk
-Twitter: @Jonathan_Old
-Github: jonathanold</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/sections/other-papers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/other-papers/</guid>
-      <description>Preservation or degradation? Communal management and ecological change in a southeast Michigan forest, with Fred Nelson, Elisa Collins, Alain Frechette, Cynthia Koenig, Mosé Jones-Yellin, Brihannala Morgan, Gita Ramsay, and Claudia Rodriguez, Biodiversity and Conservation, October 2008, Volume 17, Issue 11, pp 2757-2772</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/sections/personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sections/personal/</guid>
-      <description>Test pic
-Fearless Sidekick - Kirby passed in Aug 2016
-Website: I cloned the website from Gautam Rao. Please feel welcome to use and re-purpose the code for the website, which you can find at my GitHub repository.</description>
+      <description>Email: himani.arora.06@gmail.com
+Github: himani-arora-ha
+__ ORCID__: Visit my profile here
+Google Scholar: Visit my profile here</description>
     </item>
     
     <item>
@@ -54,7 +34,7 @@ Website: I cloned the website from Gautam Rao. Please feel welcome to use and re
       
       <guid>/sections/projects/</guid>
       <description>I have several projects with PhD students at HZDR.
- This website is cloned from Gautam Rao. You can find the source code on my Github repository. Please feel free to copy it for your own website.</description>
+ This website is cloned from Jonathan Old. You can find the source code on my Github repository. Please feel free to copy it for your own website.</description>
     </item>
     
   </channel>

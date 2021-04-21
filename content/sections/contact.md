@@ -1,5 +1,7 @@
-__Email__: [j.d.old@lse.ac.uk](j.d.old@lse.ac.uk)  
+__Email__: [himani.arora.06@gmail.com](himani.arora.06@gmail.com)  
 
-__Twitter__: [@Jonathan_Old](https://twitter.com/Jonathan_Old)
+__Github__: [himani-arora-ha](https://github.com/himani-arora-ha/)
 
-__Github__: [jonathanold](https://github.com/jonathanold/)
+__ ORCID__: [Visit my profile here](https://orcid.org/0000-0003-3318-9877)
+
+__Google Scholar__: [Visit my profile here](https://scholar.google.de/citations?user=Kqr_G0UAAAAJ&hl=de&oi=ao)
