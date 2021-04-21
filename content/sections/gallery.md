@@ -1,9 +1,5 @@
-This is a <em>word</em> .
 
- *![Image](adma_backcover.jpg){height="100px" width="100px"}
- *![Image2](https://himani-arora-ha.github.io/himani-arora-profile.jpeg)
- *![Image3](wald.jpg)
-
+ *![Image](adma_backcover.jpg)
 
 ---
 
