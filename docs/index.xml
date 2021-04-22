@@ -17,6 +17,15 @@ Curriculum Vitae (Version November 2020)</description>
     
     <item>
       <title></title>
+      <link>/sections/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/awards/</guid>
+      <description>In 2013, I was awarded an Erasmus Mundus Fellowship to study at the University of Augsburg and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/sections/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -33,7 +42,36 @@ Google Scholar: Visit my profile here</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sections/gallery/</guid>
-      <description>* This website is cloned from Jonathan Old. You can find the source code on my Github repository. Please feel free to copy it for your own website.</description>
+      <description>*</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/news/</guid>
+      <description>  My research was covered in Optics &amp;amp; Photonics News!
+  Informationsdienst Wissenschaft covered my PhD project here
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/personal/</guid>
+      <description> Follow the amazing Peace Slam project, where I am a proud member!  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/projects/</guid>
+      <description>(with Zahra) Black phosphorus based 2D-semiconductors</description>
     </item>
     
   </channel>

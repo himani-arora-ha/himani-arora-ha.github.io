@@ -4,9 +4,17 @@
   <url>
     <loc>/sections/aboutme/</loc>
   </url><url>
+    <loc>/sections/awards/</loc>
+  </url><url>
     <loc>/sections/contact/</loc>
   </url><url>
     <loc>/sections/gallery/</loc>
+  </url><url>
+    <loc>/sections/news/</loc>
+  </url><url>
+    <loc>/sections/personal/</loc>
+  </url><url>
+    <loc>/sections/projects/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
