@@ -3,6 +3,7 @@ rm -rf docs || exit 0
 hugo
 mv public docs
  
+git init --bare
 
  git remote remove origin
  git remote add origin https://github.com/himani-arora-ha/himani-arora-ha.github.io.git
