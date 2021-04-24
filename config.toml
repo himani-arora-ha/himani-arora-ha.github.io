@@ -5,7 +5,7 @@ sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
-    shortbio = "Ph.D. in Applied Physics, specialized in ultra-thin semiconductors"
+    shortbio = "Ph.D. in Physics, specialized in ultra-thin semiconductors"
     logo = "himani-arora-profile.jpeg" 
     
 [markup]
