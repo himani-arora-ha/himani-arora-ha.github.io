@@ -12,6 +12,6 @@ mv public docs
  git add .
 git commit -m "Test"
 
- git push -u origin source
+ git push -f origin source
 
  
