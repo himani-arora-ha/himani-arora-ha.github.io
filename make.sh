@@ -10,6 +10,6 @@ mv public docs
  git add .
 git commit -m "Test"
 
- git push -f origin source
+ git push origin source -f
 
  
