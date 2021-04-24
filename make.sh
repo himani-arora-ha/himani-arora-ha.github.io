@@ -7,7 +7,7 @@ mv public docs
  git config --global himani.arora.06@gmail.com
 
  git remote remove origin
- git remote add origin git@github.com:himani-arora-ha/himani-arora-ha.github.io.git
+ git remote add origin https://github.com/himani-arora-ha/himani-arora-ha.github.io.git
 
  git add .
 git commit -m "Test"
