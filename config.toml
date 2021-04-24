@@ -5,8 +5,8 @@ sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
-    shortbio = "Ph.D. in Applied Physics         2D materials | photodetectors | electronic characterization "
     logo = "himani-arora-profile.jpeg" 
+    shortbio = "Ph.D. in Applied Physics         2D materials | photodetectors | electronic characterization "
     
 [markup]
   [markup.goldmark]
