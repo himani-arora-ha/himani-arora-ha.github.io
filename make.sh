@@ -15,5 +15,3 @@ git commit -m "Test"
  git push -u origin source
 
  
-
-  ssh-keygen -t rsa -C "himani.arora.06@gmail.com"

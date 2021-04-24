@@ -1,4 +1,4 @@
-Welcome to my website! I am a postdoctoral researcher at the Helmholtz-Zentrum Dresden-Rossendorf  [HZDR](https://hzdr.de). I received my Ph.D. in Physics from TU Dresden in 2020. My research is about ultra-thin semiconductors and their electronic applications.
+Welcome to my website! I am a postdoctoral researcher at the Helmholtz-Zentrum Dresden-Rossendorf  [HZDR](https://hzdr.de). I received my Ph.D. in Physics from TU Dresden in 2020. My research is about ultra-thin semiconductors: I have worked on material synthesis, characterization, and electronic applications in transistors and photodetectors.
 
 
 
