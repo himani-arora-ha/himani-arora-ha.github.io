@@ -3,6 +3,9 @@ rm -rf docs || exit 0
 hugo
 mv public docs
  
+ git config --global himani-arora-ha
+ git config --global himani.arora.06@gmail.com
+
  git remote remove origin
  git remote add origin https://github.com/himani-arora-ha/himani-arora-ha.github.io.git
 
