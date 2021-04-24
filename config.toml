@@ -1,11 +1,16 @@
 relativeURLs = true
-title = "Himani Arora, Ph.D."
-theme = "academimal"
+title = "Dr. Himani Arora"
+theme = ["academimal"]
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
-
 [params]
     shortbio = "Ph.D. in Applied Physics, specialized in ultra-thin semiconductors"
     logo = "himani-arora-profile.jpeg" 
     
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+
