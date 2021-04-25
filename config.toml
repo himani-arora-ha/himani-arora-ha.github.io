@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
     logo = "himani-arora-profile.jpeg" 
-    shortbio = "Ph.D. in Applied Physics         2D materials | photodetectors | electronic characterization "
+    shortbio = "Ph.D. in Applied Physics         2D Materials | vdW heterostructures | nanoelectronics | opto-electronics"
     
 [markup]
   [markup.goldmark]
