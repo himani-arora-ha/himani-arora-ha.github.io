@@ -1,3 +1,12 @@
+#sticky {
+  padding: 0.5ex;
+  width: 270px;
+  position: sticky;
+ top: 10cm;
+}
+
+
+
 @font-face {
   font-family: 'Noto Sans';
   font-weight: 400;
@@ -350,8 +359,10 @@ img {
 header {
   width: 270px;
   float: left;
-  position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  position: sticky;
+  -webkit-font-smoothing: subpixel-antialiased;
+  z-index: 10000;
+}
 
 header ul {
   list-style: none;
