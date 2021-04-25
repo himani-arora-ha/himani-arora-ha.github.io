@@ -1,3 +1,11 @@
+#sticky {
+  padding: 0.5ex;
+  width: 270px;
+  position: sticky;
+ top: 10cm;
+}
+
+
 
 @font-face {
   font-family: 'Noto Sans';
