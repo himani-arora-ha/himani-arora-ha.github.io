@@ -292,11 +292,11 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: #267CB9;
+  color: #ab2b1d;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #046; }
+  color: #600000 ; }
 
 a small {
   font-size: 11px;
