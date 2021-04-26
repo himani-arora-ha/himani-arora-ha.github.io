@@ -351,7 +351,6 @@ header {
   width: 270px;
   float: left;
   position: fixed;
-  top: -10px;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 header ul {
@@ -448,7 +447,7 @@ footer {
     display: inline; }
 
   header ul {
-    position: static;
+    position: absolute;
     right: 50px;
     top: 52px; } }
 @media print, screen and (max-width: 720px) {
