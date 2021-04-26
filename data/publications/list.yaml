@@ -74,8 +74,84 @@ works:
     We study the optical properties of thin flakes of InSe encapsulated in hexagonal boron nitride. More specifically, we investigate the photoluminescence (PL) emission and its dependence on sample thickness and temperature. Through the analysis of the PL line shape, we discuss the relative weights of the exciton and electron-hole contributions. Thereafter we investigate the PL dynamics. Two contributions are distinguishable at low temperature: direct band-gap electron-hole and defect-assisted recombination. The two recombination processes have lifetimes of τ 1 ∼ 8 ns and τ 2 ∼ 100 ns , respectively. The relative weights of the direct band-gap and defect-assisted contributions show a strong layer dependence due to the direct-to-indirect band-gap crossover. Electron-hole PL lifetime is limited by population transfer to lower-energy states and no dependence on the number of layers was observed. The lifetime of the defect-assisted recombination gets longer for thinner samples. Finally, we show that the PL lifetime decreases at high temperatures as a consequence of more efficient nonradiative recombinations.
 
 
+- title: "Autocorrected Off-Axis Holography of Two-Dimensional Materials"
+  pdflink: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043360"
+  book: "Physical Review Research 2, 043360 (2020)"
+  coauthors: 
+    - Felix Kern
+    - M. Linck
+    - D. Wolf
+    - N. Alem
+    - Himani Arora
+    - S. Gemming
+    - A. Erbe
+    - A. Zettl
+    - B. Büchner
+    - A. Lubk
+  links:
+  abstract: >
+    The reduced dimensionality in two-dimensional materials leads to a wealth of unusual properties, which are currently explored for both fundamental and applied sciences. In order to study the crystal structure, edge states, the formation of defects and grain boundaries, or the impact of adsorbates, high-resolution microscopy techniques are indispensable. Here we report on the development of an electron holography (EH) transmission electron microscopy (TEM) technique, which facilitates high spatial resolution by an automatic correction of geometric aberrations. Distinguished features of EH beyond conventional TEM imaging are gap-free spatial information signal transfer and higher dose efficiency for certain spatial frequency bands as well as direct access to the projected electrostatic potential of the two-dimensional material. We demonstrate these features with the example of h-BN, for which we measure the electrostatic potential as a function of layer number down to the monolayer limit and obtain evidence for a systematic increase of the potential at the zig-zag edges.
 
 
+
+
+- title: "Effective Hexagonal Boron Nitride Passivation of Few-Layered InSe and GaSe to Enhance Their Electronic and Optical Properties"
+  pdflink: "https://aip.scitation.org/doi/full/10.1063/1.4917235"
+  book: "ACS Applied Materials and Interfaces 11 (46), 43480–43487 (2019)"
+  coauthors: 
+    - Himani Arora
+    - Younghun Jung
+    - Tommaso Venanzi
+    - Kenji Watanabe
+    - Takashi Taniguchi
+    - René Hübner
+    - Harald Schneider
+    - Manfred Helm
+    - James C. Hone
+    - Artur Erbe
+  links:
+    - url: "https://www.eurekalert.org/pub_releases/2020-01/hd-hss012820.php"
+      text: "Eurekalert.org"
+    - url: "https://phys.org/news/2020-01-encapsulation-technique-electronic-properties-sensitive.html"
+      text: "Phys.org"
+    - note: "Presented in IQ Innovation Prize Mitteldeutschland 2020"
+  abstract: >
+    Indium selenide (InSe) and gallium selenide (GaSe), members of the III–VI chalcogenide family, are emerging two-dimensional (2D) semiconductors with appealing electronic properties. However, their devices are still lagging behind because of their sensitivity to air and device fabrication processes which induce structural damage and hamper their intrinsic properties. Thus, in order to obtain high-performance and stable devices, effective passivation of these air-sensitive materials is strongly required. Here, we demonstrate a hexagonal boron nitride (hBN)-based encapsulation technique, where 2D layers of InSe and GaSe are covered entirely between two layers of hBN. To fabricate devices out of fully encapsulated 2D layers, we employ the lithography-free via-contacting scheme. We find that hBN acts as an excellent encapsulant and a near-ideal substrate for InSe and GaSe by passivating them from the environment and isolating them from the charge disorder at the SiO2 surface. As a result, the encapsulated InSe devices are of high quality and ambient-stable for a long time and show an improved two-terminal mobility of 30–120 cm2 V–1 s–1 as compared to mere ∼1 cm2 V–1 s–1 for unencapsulated devices. On employing this technique to GaSe, we obtain a strong and reproducible photoresponse. In contrast to previous studies, where either good performance or long-term stability was achieved, we demonstrate a combination of both in our devices. This work thus provides a systematic study of fully encapsulated devices based on InSe and GaSe, which has not been reported until now. We believe that this technique can open ways for fundamental studies as well as toward the integration of these materials in technological applications.
+
+
+
+
+- title: "Exciton Localization in MoSe2 Monolayers Induced by Adsorbed Gas Molecules"
+  pdflink: "https://aip.scitation.org/doi/10.1063/1.5094118"
+  book: "Applied Physics Letters 114, 172106, (2019)"
+  coauthors: 
+    - Tommaso Venanzi
+    - Himani Arora
+    - Artur Erbe
+    - Alexej Pashkin
+    - Stephan Winnerl
+    - Manfred Helm
+    - Harald Schneider
+  links:
+  abstract: >
+    Lattice defects and dielectric environment play a crucial role for 2D materials. Gas molecules can get physisorbed easily on the surface through van der Waals forces and can modify dramatically their electronic and optical properties. In this work, we investigate the impact of the physisorbed gas molecules on the optical properties of MoSe2 monolayers by means of low-temperature photoluminescence (PL). More specifically, we focus on the physics of excitons localized by gas molecules. The associated PL peak is observed to show a systematic and large red-shift with temperature and a blue-shift with laser irradiation. Both energy shifts are explained in terms of thermal instability of the localization in combination with hopping effects. Finally, a model is presented, which can reproduce the experimental data with excellent agreement.
+
+
+
+
+- title: " Direct Correction of Residual Symmetric Aberrations in Electron Holograms of Weak Phase Objects"
+  pdflink: "https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/direct-correction-of-residual-symmetric-aberrations-in-electron-holograms-of-weak-phase-objects/BD970A2A2224885A047E890ADAA76972"
+  book: "Microscopy and Microanalysis 25 (Suppl 2), 98–99, (2019)"
+  coauthors: 
+    - F. Kern
+    - M. Linck
+    - D. Wolf
+    - T. Niermann
+    - Himani Arora
+    - N. Alem
+    - Artur Erbe
+    - S. Gemming
+    - A. Lubk
 
 
 - title: "High-mobility band-like charge transport in a semiconducting two-dimensional metal–organic framework"
@@ -103,6 +179,17 @@ works:
     Metal–organic frameworks (MOFs) are hybrid materials based on crystalline coordination polymers that consist of metal ions connected by organic ligands. In addition to the traditional applications in gas storage and separation or catalysis, the long-range crystalline order in MOFs, as well as the tunable coupling between the organic and inorganic constituents, has led to the recent development of electrically conductive MOFs as a new generation of electronic materials. However, to date, the nature of charge transport in the MOFs has remained elusive. Here we demonstrate, using high-frequency terahertz photoconductivity and Hall effect measurements, Drude-type band-like transport in a semiconducting, π–d conjugated porous Fe3(THT)2(NH4)3 (THT, 2,3,6,7,10,11-triphenylenehexathiol) two-dimensional MOF, with a room-temperature mobility up to ~ 220 cm2 V–1 s–1. The temperature-dependent conductivity reveals that this mobility represents a lower limit for the material, as mobility is limited by impurity scattering. These results illustrate the potential for high-mobility semiconducting MOFs as active materials in thin-film optoelectronic devices.
 
 
+- title: "Electrical Characterization of Two-Dimensional Materials and Their Heterostructures"
+  pdflink: "https://iopscience.iop.org/article/10.1088/1757-899X/198/1/012002"
+  book: "IOP Conference Series: Materials Science and Engineering 198, 012002, (2017)"
+  coauthors: 
+    - Himani Arora
+    - Tommy Schönherr
+    - Artur Erbe
+  links:
+  abstract: >
+    Two-dimensional (2D) materials have gained enormous attention in recent years owing to their huge potential in future electronics and optics. On the one hand, conventional 2D materials like graphene, MoS2, h-BN are being intensively studied, on the other hand, search for novel 2D materials is at a rapid pace. In this study, we have investigated electrical properties of 2D nanosheets of ultrathin Indium Selenide (InSe), a member of the III-VI chalcogenides' family. The InSe layers were prepared via micromechanical cleavage of its bulk crystal and were integrated into a field-effect transistor (FET) device as the transport channel. On characterizing the InSe-based FETs, InSe showed n-type conductance with the mobility of 2.1×10−4 cm2V−1s−1.
+
 
 
 - title: "Amorphous indium-gallium-zinc-oxide as electron transport layer in organic photodetectors"
@@ -120,24 +207,16 @@ works:
   abstract: >
     Amorphous indium-gallium-zinc-oxide (a-IGZO) is demonstrated as an electron transport layer (ETL) in a high-performance organic photodetector (OPD). Dark current in the range of 10 nA/cm2 at a bias voltage of −2 V and a high photoresponse in the visible spectrum were obtained in inverted OPDs with poly(3-hexylthiophene) and phenyl-C61-butyric acid methyl ester active layer. The best results were obtained for the optimum a-IGZO thickness of 7.5 nm with specific detectivity of 3 × 1012 Jones at the wavelength of 550 nm. The performance of the best OPD devices using a-IGZO was shown to be comparable to state-of-the-art devices based on TiOx as ETL, with higher rectification achieved in reverse bias. Yield and reproducibility were also enhanced with a-IGZO, facilitating fabrication of large area OPDs. Furthermore, easier integration with IGZO-based readout backplanes can be envisioned, where the channel material can be used as photodiode buffer layer after additional treatment.
 
+    
 
-- title: "Effective Hexagonal Boron Nitride Passivation of Few-Layered InSe and GaSe to Enhance Their Electronic and Optical Properties"
-  pdflink: "https://aip.scitation.org/doi/full/10.1063/1.4917235"
-  book: "ACS Applied Materials and Interfaces 11 (46), 43480–43487 (2019)"
+
+- title: "Study of Sliver Defects on Cold Rolled Coils: Effect of Casting Process Parameters"
+  pdflink: "https://www.researchgate.net/publication/276059847_Study_of_sliver_defects_on_cold_rolled_coils_effect_of_casting_process_parameters"
+  book: " TATA Search 2, 209-214 (2012)"
   coauthors: 
     - Himani Arora
-    - Younghun Jung
-    - Tommaso Venanzi
-    - Kenji Watanabe
-    - Takashi Taniguchi
-    - René Hübner
-    - Harald Schneider
-    - Manfred Helm
-    - James C. Hone
-    - Artur Erbe
-  links:
-  abstract: >
-    Indium selenide (InSe) and gallium selenide (GaSe), members of the III–VI chalcogenide family, are emerging two-dimensional (2D) semiconductors with appealing electronic properties. However, their devices are still lagging behind because of their sensitivity to air and device fabrication processes which induce structural damage and hamper their intrinsic properties. Thus, in order to obtain high-performance and stable devices, effective passivation of these air-sensitive materials is strongly required. Here, we demonstrate a hexagonal boron nitride (hBN)-based encapsulation technique, where 2D layers of InSe and GaSe are covered entirely between two layers of hBN. To fabricate devices out of fully encapsulated 2D layers, we employ the lithography-free via-contacting scheme. We find that hBN acts as an excellent encapsulant and a near-ideal substrate for InSe and GaSe by passivating them from the environment and isolating them from the charge disorder at the SiO2 surface. As a result, the encapsulated InSe devices are of high quality and ambient-stable for a long time and show an improved two-terminal mobility of 30–120 cm2 V–1 s–1 as compared to mere ∼1 cm2 V–1 s–1 for unencapsulated devices. On employing this technique to GaSe, we obtain a strong and reproducible photoresponse. In contrast to previous studies, where either good performance or long-term stability was achieved, we demonstrate a combination of both in our devices. This work thus provides a systematic study of fully encapsulated devices based on InSe and GaSe, which has not been reported until now. We believe that this technique can open ways for fundamental studies as well as toward the integration of these materials in technological applications.
+    - A. Kumar
+    - M. B. N. Raju
+    - A. Dey
+    - S. Suresh
 
-
-    
