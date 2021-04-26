@@ -288,15 +288,15 @@ h1 {
 h2 {
   color: #393939; }
 
-h3, h4, h5, h6 {
+h3, h4, h5, h6  {
   color: #494949; }
 
 a {
-  color: #ab2b1d;
+  color: #b9264c;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #600000 ; }
+  color: #600025 ; }
 
 a small {
   font-size: 11px;
