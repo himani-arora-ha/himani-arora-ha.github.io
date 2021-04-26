@@ -1,5 +1,8 @@
-I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 and am currently working as a postdoctoral researcher at Helmholtz-Zentrum Dresden-Rossendorf ([HZDR](https://www.hzdr.de/db/!ContMan.Visi.Card?pNid=2760&pUser=113526)). My research is focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors). 
-During my career, I have worked in rigorous and challenging work environments at world-renowned organizations in India, Europe, and the United States. Leading (sometimes) inter-disciplinary and multinational teams has enabled me to quickly learn new methods and smoothly integrate into new environments. I am a firm believer that learning continues throughout one’s life. Hence, I try to indulge myself in new challenges and to hone new skills to broaden my abilities and limits.
+I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 and am currently working as a postdoctoral researcher at Helmholtz-Zentrum Dresden-Rossendorf <a href="https://www.hzdr.de/db/!ContMan.Visi.Card?pNid=2760&pUser=113526)" target="_blank">(HZDR)</a>. Before that, I did my bachelors in metallurgical engineering at IIT-BHU in Varanasi, India, and my Masters with Erasmus Mundus in Ausburg (Germany), Grenoble (France), and Leuven (Belgium).
+
+My research is focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors). 
+
+During my career, I have worked at world-renowned organizations in India, Europe, and the United States. Leading (sometimes) inter-disciplinary and multinational teams has enabled me to quickly learn new methods and smoothly integrate into new environments. I am a firm believer that learning continues throughout one’s life. Hence, I try to indulge myself in new challenges and to hone new skills to broaden my abilities and limits.
 
 
 

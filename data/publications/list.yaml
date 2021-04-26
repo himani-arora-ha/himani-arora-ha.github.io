@@ -1,25 +1,121 @@
 works:
-- title: "High-mobility band-like charge transport in a semiconducting two-dimensional metal–organic framework"
-  pdflink: "https://www.nature.com/articles/s41563-018-0189-z"
-  book: "Nature Materials 17, pp. 1027–1032 (2018)"
-  coauthors: "Renhao Dong, Peng Han, Himani Arora, Marco Ballabio, Melike Karakus, Zhe Zhang, Chandra Shekhar, Peter Adler, Petko St. Petkov, Artur Erbe, Stefan C. B. Mannsfeld, Claudia Felser, Thomas Heine, Mischa Bonn, Xinliang Feng & Enrique Cánovas"
-  links:
-  abstract: >
-    Metal–organic frameworks (MOFs) are hybrid materials based on crystalline coordination polymers that consist of metal ions connected by organic ligands. In addition to the traditional applications in gas storage and separation or catalysis, the long-range crystalline order in MOFs, as well as the tunable coupling between the organic and inorganic constituents, has led to the recent development of electrically conductive MOFs as a new generation of electronic materials. However, to date, the nature of charge transport in the MOFs has remained elusive. Here we demonstrate, using high-frequency terahertz photoconductivity and Hall effect measurements, Drude-type band-like transport in a semiconducting, π–d conjugated porous Fe3(THT)2(NH4)3 (THT, 2,3,6,7,10,11-triphenylenehexathiol) two-dimensional MOF, with a room-temperature mobility up to ~ 220 cm2 V–1 s–1. The temperature-dependent conductivity reveals that this mobility represents a lower limit for the material, as mobility is limited by impurity scattering. These results illustrate the potential for high-mobility semiconducting MOFs as active materials in thin-film optoelectronic devices.
 
 - title: "Demonstration of a Broadband Photodetector Based on a Two‐Dimensional Metal–Organic Framework"
   pdflink: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201907063"
   book: "Advanced Materials 32 (9), 1907063, (2020)"
-  coauthors: "Himani Arora, Renhao Dong, Tommaso Venanzi, Jens Zscharschuch, Harald Schneider, Manfred Helm, Xinliang Feng, Enrique Cánovas and Artur Erbe"
+  coauthors:
+    - Himani Arora
+    - Renhao Dong
+    - Tommaso Venanzi
+    - Jens Zscharschuch
+    - Harald Schneider
+    - Manfred Helm
+    - Xinliang Feng
+    - Enrique Cánovas
+    - Artur Erbe
   links:
+    - url: "https://onlinelibrary.wiley.com/doi/10.1002/adma.202070071"
+      text: "Featured on back cover"
+    - url: "https://www.osa-opn.org/home/newsroom/2020/april/mof-based_broadband_photodetector/"
+      text: "Optics and Photonics News"
+    - url: "https://www.laserfocusworld.com/detectors-imaging/article/14173895/metalorganic-semiconductor-photodetector-has-400-to-1575-nm-spectral-detection-range"
+      text: "laserfocusworld"
+    - url: "https://www.sciencedaily.com/releases/2020/04/200409093935.htm"
+      text: "sciencedaily"
   abstract: >
     Metal–organic frameworks (MOFs) are emerging as an appealing class of highly tailorable electrically conducting materials with potential applications in optoelectronics. Yet, the realization of their proof‐of‐concept devices remains a daunting challenge, attributed to their poor electrical properties. Following recent work on a semiconducting Fe3(THT)2(NH4)3 (THT: 2,3,6,7,10,11‐triphenylenehexathiol) 2D MOF with record‐high mobility and band‐like charge transport, here, an Fe3(THT)2(NH4)3 MOF‐based photodetector operating in photoconductive mode capable of detecting a broad wavelength range from UV to NIR (400–1575 nm) is demonstrated. The narrow IR bandgap of the active layer (≈0.45 eV) constrains the performance of the photodetector at room temperature by band‐to‐band thermal excitation of charge carriers. At 77 K, the device performance is significantly improved; two orders of magnitude higher voltage responsivity, lower noise equivalent power, and higher specific detectivity of 7 × 108 cm Hz1/2 W−1 are achieved under 785 nm excitation. These figures of merit are retained over the analyzed spectral region (400–1575 nm) and are commensurate to those obtained with the first demonstrations of graphene‐ and black‐phosphorus‐based photodetectors. This work demonstrates the feasibility of integrating conjugated MOFs as an active element into broadband photodetectors, thus bridging the gap between materials' synthesis and technological applications.
+
+- title: " Recent Progress in Contact, Mobility, and Encapsulation Engineering of InSe and GaSe"
+  pdflink: "https://onlinelibrary.wiley.com/doi/10.1002/inf2.12160"
+  book: "Infomat (2020)"
+  coauthors:
+    - Himani Arora
+    - Artur Erbe
+  links:
+  abstract: >
+    The field of two‐dimensional (2D) materials has stimulated considerable interest in the scientific community. Owing to quantum confinement in one direction, intriguing properties have been reported in 2D materials that cannot be observed in their bulk form. The advent of semiconducting 2D materials with a broad range of electronic properties has provided fascinating opportunities to design and configure next‐generation electronics. One such emerging class is the family of III‐VI monochalcogenides, the two prominent members of which are indium selenide (InSe) and gallium selenide (GaSe). In contrast to transition metal dichalcogenides, their high intrinsic mobility and the availability of a direct bandgap at small thicknesses have attracted researchers to investigate the underlying physical phenomena as well as their technological applications. However, the sensitivity of InSe and GaSe to environmental influences has limited their exploitation in functional devices. The lack of methods for their scalable synthesis further hinders the realization of their devices. This review article outlines recent advancements in the synthesis and understanding of the charge transport properties of InSe and GaSe for their integration into technological applications. A detailed summary of the improvements in the device structure by optimizing extrinsic factors such as bottom substrates, metal contacts, and device fabrication schemes is provided. Furthermore, various encapsulation techniques that have been proven effective in preventing the degradation of InSe and GaSe layers under ambient conditions are thoroughly discussed. Finally, this article presents an outlook on future research ventures with respect to ongoing developments and practical viability of these materials.
+
+
+
+- title: " 2D MOFs: A New Platform for Optics?"
+  pdflink: "https://www.osa-opn.org/home/articles/volume_31/october_2020/features/2d_mofs_a_new_platform_for_optics/"
+  book: "Optics and Photonics News 31, 36-43 (2020)"
+  coauthors:
+    - Himani Arora
+    - SangWook Park
+    - Renhao Dong
+    - Artur Erbe
+  links:
+  abstract: >
+    An emerging class of 2D semiconductors, so-called metal-organic frameworks, offers intriguing potential as an active element in optical applications.
+
+
+
+
+- title: "Photoluminescence dynamics in few-layer InSe"
+  pdflink: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.044001"
+  book: "Phys. Rev. Materials 4, 044001 (2020)"
+  coauthors: 
+    - Tommaso Venanzi
+    - Himani Arora
+    - Stephan Winnerl
+    - Alexej Pashkin
+    - Phanish Chava
+    - Amalia Patanè
+    - Zakhar D. Kovalyuk
+    - Zakhar R. Kudrynskyi
+    - Kenji Watanabe
+    - Takashi Taniguchi
+    - Artur Erbe
+    - Manfred Helm
+    - Harald Schneider
+  links:
+  abstract: >
+    We study the optical properties of thin flakes of InSe encapsulated in hexagonal boron nitride. More specifically, we investigate the photoluminescence (PL) emission and its dependence on sample thickness and temperature. Through the analysis of the PL line shape, we discuss the relative weights of the exciton and electron-hole contributions. Thereafter we investigate the PL dynamics. Two contributions are distinguishable at low temperature: direct band-gap electron-hole and defect-assisted recombination. The two recombination processes have lifetimes of τ 1 ∼ 8 ns and τ 2 ∼ 100 ns , respectively. The relative weights of the direct band-gap and defect-assisted contributions show a strong layer dependence due to the direct-to-indirect band-gap crossover. Electron-hole PL lifetime is limited by population transfer to lower-energy states and no dependence on the number of layers was observed. The lifetime of the defect-assisted recombination gets longer for thinner samples. Finally, we show that the PL lifetime decreases at high temperatures as a consequence of more efficient nonradiative recombinations.
+
+
+
+
+
+
+- title: "High-mobility band-like charge transport in a semiconducting two-dimensional metal–organic framework"
+  pdflink: "https://www.nature.com/articles/s41563-018-0189-z"
+  book: "Nature Materials 17, pp. 1027–1032 (2018)"
+  coauthors: 
+    - Renhao Dong
+    - Peng Han
+    - Himani Arora
+    - Marco Ballabio
+    - Melike Karakus
+    - Zhe Zhang
+    - Chandra Shekhar
+    - Peter Adler
+    - Petko St. Petkov
+    - Artur Erbe
+    - Stefan C. B. Mannsfeld
+    - Claudia Felser
+    - Thomas Heine
+    - Mischa Bonn
+    - Xinliang Feng 
+    - Enrique Cánovas
+  links:
+  abstract: >
+    Metal–organic frameworks (MOFs) are hybrid materials based on crystalline coordination polymers that consist of metal ions connected by organic ligands. In addition to the traditional applications in gas storage and separation or catalysis, the long-range crystalline order in MOFs, as well as the tunable coupling between the organic and inorganic constituents, has led to the recent development of electrically conductive MOFs as a new generation of electronic materials. However, to date, the nature of charge transport in the MOFs has remained elusive. Here we demonstrate, using high-frequency terahertz photoconductivity and Hall effect measurements, Drude-type band-like transport in a semiconducting, π–d conjugated porous Fe3(THT)2(NH4)3 (THT, 2,3,6,7,10,11-triphenylenehexathiol) two-dimensional MOF, with a room-temperature mobility up to ~ 220 cm2 V–1 s–1. The temperature-dependent conductivity reveals that this mobility represents a lower limit for the material, as mobility is limited by impurity scattering. These results illustrate the potential for high-mobility semiconducting MOFs as active materials in thin-film optoelectronic devices.
+
+
 
 
 - title: "Amorphous indium-gallium-zinc-oxide as electron transport layer in organic photodetectors"
   pdflink: "https://aip.scitation.org/doi/full/10.1063/1.4917235"
   book: "Applied Physics Letters 106, 143301 (2015)"
-  coauthors: "H. Arora, P. E. Malinowski,  A. Chasin, D. Cheyns, S. Steudel, S. Schols, and P. Heremans"
+  coauthors: 
+    - Himani Arora
+    - Pawel E. Malinowski
+    - A. Chasin
+    - D. Cheyns
+    - S. Steudel
+    - S. Schols
+    - Paul Heremans
   links:
   abstract: >
     Amorphous indium-gallium-zinc-oxide (a-IGZO) is demonstrated as an electron transport layer (ETL) in a high-performance organic photodetector (OPD). Dark current in the range of 10 nA/cm2 at a bias voltage of −2 V and a high photoresponse in the visible spectrum were obtained in inverted OPDs with poly(3-hexylthiophene) and phenyl-C61-butyric acid methyl ester active layer. The best results were obtained for the optimum a-IGZO thickness of 7.5 nm with specific detectivity of 3 × 1012 Jones at the wavelength of 550 nm. The performance of the best OPD devices using a-IGZO was shown to be comparable to state-of-the-art devices based on TiOx as ETL, with higher rectification achieved in reverse bias. Yield and reproducibility were also enhanced with a-IGZO, facilitating fabrication of large area OPDs. Furthermore, easier integration with IGZO-based readout backplanes can be envisioned, where the channel material can be used as photodiode buffer layer after additional treatment.
@@ -28,20 +124,20 @@ works:
 - title: "Effective Hexagonal Boron Nitride Passivation of Few-Layered InSe and GaSe to Enhance Their Electronic and Optical Properties"
   pdflink: "https://aip.scitation.org/doi/full/10.1063/1.4917235"
   book: "ACS Applied Materials and Interfaces 11 (46), 43480–43487 (2019)"
-  coauthors: "Himani Arora, Younghun Jung, Tommaso Venanzi, Kenji Watanabe, Takashi Taniguchi, René Hübner, Harald Schneider, Manfred Helm, James C. Hone, and Artur Erbe"
+  coauthors: 
+    - Himani Arora
+    - Younghun Jung
+    - Tommaso Venanzi
+    - Kenji Watanabe
+    - Takashi Taniguchi
+    - René Hübner
+    - Harald Schneider
+    - Manfred Helm
+    - James C. Hone
+    - Artur Erbe
   links:
   abstract: >
     Indium selenide (InSe) and gallium selenide (GaSe), members of the III–VI chalcogenide family, are emerging two-dimensional (2D) semiconductors with appealing electronic properties. However, their devices are still lagging behind because of their sensitivity to air and device fabrication processes which induce structural damage and hamper their intrinsic properties. Thus, in order to obtain high-performance and stable devices, effective passivation of these air-sensitive materials is strongly required. Here, we demonstrate a hexagonal boron nitride (hBN)-based encapsulation technique, where 2D layers of InSe and GaSe are covered entirely between two layers of hBN. To fabricate devices out of fully encapsulated 2D layers, we employ the lithography-free via-contacting scheme. We find that hBN acts as an excellent encapsulant and a near-ideal substrate for InSe and GaSe by passivating them from the environment and isolating them from the charge disorder at the SiO2 surface. As a result, the encapsulated InSe devices are of high quality and ambient-stable for a long time and show an improved two-terminal mobility of 30–120 cm2 V–1 s–1 as compared to mere ∼1 cm2 V–1 s–1 for unencapsulated devices. On employing this technique to GaSe, we obtain a strong and reproducible photoresponse. In contrast to previous studies, where either good performance or long-term stability was achieved, we demonstrate a combination of both in our devices. This work thus provides a systematic study of fully encapsulated devices based on InSe and GaSe, which has not been reported until now. We believe that this technique can open ways for fundamental studies as well as toward the integration of these materials in technological applications.
-
-- title: "Photoluminescence dynamics in few-layer InSe"
-  pdflink: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.044001"
-  book: "Phys. Rev. Materials 4, 044001 (2020)"
-  coauthors: "Tommaso Venanzi, Himani Arora, Stephan Winnerl, Alexej Pashkin, Phanish Chava, Amalia Patanè, Zakhar D. Kovalyuk, Zakhar R. Kudrynskyi, Kenji Watanabe, Takashi Taniguchi, Artur Erbe, Manfred Helm, and Harald Schneider"
-  links:
-  abstract: >
-    We study the optical properties of thin flakes of InSe encapsulated in hexagonal boron nitride. More specifically, we investigate the photoluminescence (PL) emission and its dependence on sample thickness and temperature. Through the analysis of the PL line shape, we discuss the relative weights of the exciton and electron-hole contributions. Thereafter we investigate the PL dynamics. Two contributions are distinguishable at low temperature: direct band-gap electron-hole and defect-assisted recombination. The two recombination processes have lifetimes of τ 1 ∼ 8 ns and τ 2 ∼ 100 ns , respectively. The relative weights of the direct band-gap and defect-assisted contributions show a strong layer dependence due to the direct-to-indirect band-gap crossover. Electron-hole PL lifetime is limited by population transfer to lower-energy states and no dependence on the number of layers was observed. The lifetime of the defect-assisted recombination gets longer for thinner samples. Finally, we show that the PL lifetime decreases at high temperatures as a consequence of more efficient nonradiative recombinations.
-
-
 
 
     
