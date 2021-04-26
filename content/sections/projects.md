@@ -6,4 +6,4 @@
 
 * Characterization of Germanium Nanowires (sub-40 nm) Using a Reliable Hall-bar Configuration.
 
-* Fabrication and characterization of p–n junctions Based on Implanted Germanium Nanowires for Photodetection Applications.
+* Fabrication and Characterization of p–n Junctions Based on Implanted Germanium Nanowires for Photodetection Applications.

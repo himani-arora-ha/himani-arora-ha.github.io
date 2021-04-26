@@ -11,7 +11,7 @@
 | 2015–2018    	| IHRS NanoNet Fellowship for pursuing Ph.D. degree at Helmholtz-Zentrum Dresden Rossendorf.                                                                                                                                                	|
 | 2012–2014    	| Erasmus Mundus Scholarship by the European Union for pursuing M.Sc. degree. Only 10 candidates were awarded the scholarship from non-EU countries.                                                                                        	|
 | 04/2011     	| BHU Alumni Association Scholarship for overall academic and curricula excellence during undergraduate studies at IIT-BHU.                                                                                                                 	|
-| 08/2007     	| Honored by the District Administration and Red Cross Society of Bhiwani, my hometown located in Haryana (India) for extraordinary achievements in academia.                                                                               	|
+| 08/2007     	| Honored by the District Administration and Red Cross Society of Bhiwani, my hometown located in Haryana (India), for extraordinary academic achievements.                                                                        	|
 
 
 
