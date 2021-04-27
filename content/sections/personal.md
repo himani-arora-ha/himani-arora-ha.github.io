@@ -18,7 +18,7 @@
   {{< figure link="/images/mountain_2.jpg" thumb="-thumb" caption="Cycling with my colleagues in Leuven, Belgium"  alt="During my time in Leuven, I participated in a 120km cycling tour through Belgium.">}}
   {{< figure link="/images/mountain_3.jpg" thumb="-thumb" caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
 
-    {{< figure link="/images/peaceslam_1.jpg"  caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
+    {{< figure link="/images/peaceslam_1.jpg" thumb="-thumb" caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
     {{< figure link="/images/peaceslam_2.jpg"  caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
     {{< figure link="/images/peaceslam_3.jpg"  caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
     {{< figure link="/images/peaceslam_4.jpg"  caption="Playing cricket in Belgium" alt="I played cricket for the Belgian female national team during my time in Leuven.">}}
