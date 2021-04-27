@@ -355,23 +355,27 @@ header {
   overflow-y: scroll;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-#testit1 {
-  width: 270px;
-  float: left;
-  position: fixed; ;
-  -webkit-font-smoothing: subpixel-antialiased; }
 
-#testit2 {
-  width: 270px;
-  float: left;
-  position: fixed; ;
-  -webkit-font-smoothing: subpixel-antialiased; }
+  .header {
+  position: sticky;
+}
 
-  #testit3 {
-  width: 270px;
-  float: left;
-  position: absolute; ;
-  -webkit-font-smoothing: subpixel-antialiased; }
+#header01 {
+  top: 0;
+}
+
+#header02 {
+  top: 2em;
+}
+
+#header03 {
+  top: 4em;
+}
+
+
+.content {
+  text-align: center
+}
 
 
 header ul {
