@@ -1,5 +1,5 @@
 
-* This is a text
+This is a text.
 
 
  <div class="header" id="header03">
