@@ -351,8 +351,7 @@ header {
   width: 270px;
   float: left;
   height:90%;
-  position: fixed ;
-  overflow-y: scroll;
+  position: absolute ;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
