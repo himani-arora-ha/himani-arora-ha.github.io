@@ -359,6 +359,7 @@ header {
   .header {
   position: sticky;
   background-color: white;
+  z-index:12 ;
 }
 
 #header01 {
