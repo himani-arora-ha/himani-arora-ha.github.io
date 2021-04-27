@@ -7,6 +7,7 @@
 
 
 
+ <div class="header" id="header02">
 
 
 {{< gallery >}}
@@ -26,3 +27,5 @@
 
 
 {{< /gallery >}}
+
+</div>
