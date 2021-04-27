@@ -351,7 +351,7 @@ header {
   width: 270px;
   float: left;
   height:90%;
-  position: absolute ;
+  position: static ;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
@@ -361,16 +361,13 @@ header {
 }
 
 #header01 {
-  top: 0;
+  top: 0px;
 }
 
 #header02 {
   top: 48px;
 }
 
-#header03 {
-  top: 4em;
-}
 
 
 .content {
