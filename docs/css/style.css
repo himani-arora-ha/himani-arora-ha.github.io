@@ -350,7 +350,8 @@ img {
 header {
   width: 270px;
   float: left;
-  position: sticky;
+  position: fixed;
+  overflow-y: scroll;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 header ul {
@@ -431,7 +432,7 @@ footer {
 
   header, section, footer {
     float: none;
-    position: sticky;
+    position: static;
     width: auto; }
 
   header {
