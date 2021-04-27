@@ -350,9 +350,15 @@ img {
 header {
   width: 270px;
   float: left;
-  top: 20px;
+  height:90%;
   position: fixed ;
   overflow-y: scroll;
+  -webkit-font-smoothing: subpixel-antialiased; }
+
+testit {
+  width: 270px;
+  float: left;
+  position: absolute; ;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 header ul {
