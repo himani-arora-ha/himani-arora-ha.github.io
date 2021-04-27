@@ -357,6 +357,7 @@ header {
 
   .header {
   position: sticky;
+  background-color: white;
 }
 
 #header01 {
@@ -364,7 +365,7 @@ header {
 }
 
 #header02 {
-  top: 2em;
+  top: 48px;
 }
 
 #header03 {
@@ -373,7 +374,7 @@ header {
 
 
 .content {
-  text-align: center
+  text-align: left
 }
 
 
