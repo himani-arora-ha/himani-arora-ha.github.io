@@ -239,7 +239,7 @@
 body {
   background-color: #fff;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #727272;
   font-weight: 400; }
 
@@ -288,15 +288,15 @@ h1 {
 h2 {
   color: #393939; }
 
-h3, h4, h5, h6  {
+h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: #b9264c;
+  color: #26a4b9;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #600025 ; }
+  color: #005466; }
 
 a small {
   font-size: 11px;
