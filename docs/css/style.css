@@ -355,6 +355,7 @@ header {
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
+
   .header {
   position: sticky;
   background-color: white;
@@ -368,10 +369,15 @@ header {
   top: 48px;
 }
 
-
-
 .content {
   text-align: left
+}
+
+
+@media (max-width: 767px) {
+.header {
+  position: relative !important;
+}
 }
 
 

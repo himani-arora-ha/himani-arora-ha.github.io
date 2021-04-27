@@ -17,4 +17,4 @@ During my career, I have worked at world-renowned organizations in India, Europe
   {{< figure link="/images/nanonet_ieee.jpg"  thumb="-thumb" caption="Best student paper award at IEEE Radio conference" alt="I received an award for the best student paper at the 2016 IEEE Radio conference.">}}
 {{< /gallery >}}
 
-</div>
+<div id="content02" class="content">
