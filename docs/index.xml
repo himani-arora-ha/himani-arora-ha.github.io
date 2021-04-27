@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Dr. Himani Arora</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Dr. Himani Arora</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/aboutme/</guid>
+      <description>I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 and am currently working as a postdoctoral researcher at Helmholtz-Zentrum Dresden-Rossendorf (HZDR). Prior to that, I completed my Bachelor’s in Metallurgical Engineering from IIT-BHU (India) and Master’s in Advanced Functional Materials, jointly from the University of Augsburg (Germany) and the Institut polytechnique de Grenoble (France) under Erasmus Mundus Scholarship Program.
+My research is focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/awards/</guid>
+      <description>10/2020 Best Student Award in the entire Ph.D. Program at the Annual Workshop of IHRS NanoNet (International Helmholtz Research School for Nanoelectronic Networks).   08/2018 1st prize in Scientific Image Competition organized by cfaed (Center for Advancing Electronics Dresden). The winning image was an optical microscopic image of a field-effect transistor build on 2D polymers (Link to announcement).   06/2018 3rd prize in Science Slam on “2D or not 2D” organized by Technische Sammlungen Dresden in collaboration with Silicon Saxony e.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/contact/</guid>
+      <description>Email: himani.arora.06@gmail.com
+Github: himani-arora-ha
+ORCID: Visit my profile here
+Google Scholar: Visit my profile here</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/news/</guid>
+      <description>04/2020 Optics and Photonics News published a report  on our MOF photodetectors.   04/2020 Laserfocusworld and Science Daily  reports on our MOF photodetectors.   03/2020 Our paper on MOF photodetectors is featured on the back cover of Advanced Materials.   01/2020 Our paper on encapsulation of air-sensitive 2D materials is referenced on phys.org and EurekAlert!.   10/2018 Nanowerk, Technology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/outreach/</guid>
+      <description>  Mentoring Students
+  &amp;hellip; Test
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/personal/</guid>
+      <description> This is a text     Celebrating a successful shot in cricket
+      Playing cricket in Belgium
+      Mountaineering in the Himalayas
+      Reaching the peak of Mount Surya
+      The peace slam team
+      Giving a talk for Peace Slam
+    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/projects/</guid>
+      <description>Investigation of Temperature Dependent Electronic Properties of Encapsulated Black Phosphorus.
+  Development of Highly Stable and Sensitive Black Phosphorus Based Gas Sensors as well as Black Phosphorus Based Reconfigurable 2D Circuits.
+  Investigation of (opto)electronic properties of π–d conjugated 2D MOFs.
+  Characterization of Germanium Nanowires (sub-40 nm) Using a Reliable Hall-bar Configuration.
+  Fabrication and Characterization of p–n Junctions Based on Implanted Germanium Nanowires for Photodetection Applications.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/test/</guid>
+      <description>.</description>
+    </item>
+    
+  </channel>
+</rss>

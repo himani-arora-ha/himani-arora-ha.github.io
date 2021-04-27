@@ -1,5 +1,5 @@
 
-
+* This is a text
 
 
  <div class="header" id="header03">
@@ -13,7 +13,6 @@
 
     {{< figure link="/images/peaceslam_1.jpg" thumb="-thumb" caption="The peace slam team" alt="I volunteer for the International Peace Slam Dresden, a group of young internationals promotion ideas of peace, tolerance, and intercultural understanding.">}}
     {{< figure link="/images/peaceslam_6.jpg"  caption="Giving a talk for Peace Slam" alt="I presented my Peace Slam at various occasions in Dresden.">}}
-
 
 {{< /gallery >}}
 
