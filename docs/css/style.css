@@ -350,7 +350,7 @@ img {
 header {
   width: 270px;
   float: left;
-  position: fixed;
+  position: absolute;
   overflow-y: scroll;
   -webkit-font-smoothing: subpixel-antialiased; }
 
