@@ -355,13 +355,19 @@ header {
   overflow-y: scroll;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-testit2 {
+.testit1 {
   width: 270px;
   float: left;
   position: fixed; ;
   -webkit-font-smoothing: subpixel-antialiased; }
 
-  testit3 {
+.testit2 {
+  width: 270px;
+  float: left;
+  position: fixed; ;
+  -webkit-font-smoothing: subpixel-antialiased; }
+
+  .testit3 {
   width: 270px;
   float: left;
   position: absolute; ;
