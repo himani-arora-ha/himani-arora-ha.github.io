@@ -4,9 +4,9 @@ I am fluent in Hindi, English, and German.
 Since 2017, I am part of the amazing <a href="https://peaceslam.com/" target="_blank"> Peace Slam Project</a>: We are a group of young internationals in Dresden and pitch our idea of peace, tolerance, and intercultural understanding to diverse audiences, for example at schools, local companies, and cultural festivals. One highlight was in 2018, where I slammed, in German, in front of more than 1,000 people at Palaissommer Dresden.
 <p>
 	{{< gallery >}}
-    {{< figure link="/images/peaceslam_6.jpg" caption="Presenting my peace slam.">}}
-     {{< figure link="/images/peaceslam_3.jpg"  caption="Pitching the Peace slam initiative project at TEDx Dresden 2018">}}
-    {{< figure link="/images/peaceslam_8.jpeg"  caption="Presenting the peace slam at Palaissommer Dresden 2018.">}}
+    {{< figure link="/images/peaceslam_6.jpg" thumb="-thumb" caption="Presenting my peace slam.">}}
+     {{< figure link="/images/peaceslam_3.jpg" thumb="-thumb"  caption="Pitching the Peace slam initiative project at TEDx Dresden 2018">}}
+    {{< figure link="/images/peaceslam_8.jpeg" thumb="-thumb"  caption="Presenting the peace slam at Palaissommer Dresden 2018.">}}
 {{< /gallery >}}
  </p>
 
