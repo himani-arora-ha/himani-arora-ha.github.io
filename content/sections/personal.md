@@ -2,7 +2,6 @@
 This is a text.
 
 
- <div class="headx" id="header04">
 
 
 {{< gallery >}}
@@ -16,4 +15,3 @@ This is a text.
 
 {{< /gallery >}}
 
-</div>
