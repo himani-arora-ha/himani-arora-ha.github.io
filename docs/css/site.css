@@ -3,13 +3,11 @@
   }
   .sidebar-inner {
     display:-webkit-box;
-    display:flex;
     -webkit-box-orient:vertical;
     flex-direction:column;
     height:100%;
     }
     .sidebar-inner .flex-scroll {
-      overflow-y:scroll;
       min-height:0;
       -webkit-box-flex:1;
       flex:1;

@@ -350,13 +350,19 @@ img {
 header {
   width: 270px;
   float: left;
-  height:90%;
-  position: static ;
+position: fixed;
+top: 0px;
+  max-height: 100%;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
+  .heady {
+  position: relative;
+  background-color: white;
+  z-index:1 ;
+}
 
-  .header {
+  .headx {
   position: sticky;
   background-color: white;
   z-index:12 ;
@@ -364,16 +370,24 @@ header {
 
 #header01 {
   top: 0px;
+  padding-bottom: 1em;
 }
 
 #header02 {
   top: 48px;
+  z-index: 10 !important;
 }
 
 #header03 {
   top: 225px;
   padding: 0.1em;
 }
+
+#header04 {
+  top: 225px;
+  padding: 0.0em;
+}
+
 
 
 .content {
