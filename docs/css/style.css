@@ -307,6 +307,7 @@ a small {
 a:hover small {
   color: #777; }
 
+
 .wrapper {
   width: 1060px;
   margin: 0 auto; }
@@ -347,11 +348,11 @@ th {
 img {
   max-width: 100%; }
 
+
 header {
   width: 270px;
   float: left;
-position: fixed;
-  max-height: 100%;
+  position: fixed;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
@@ -388,10 +389,6 @@ position: fixed;
 }
 
 
-
-.content {
-  text-align: left
-}
 
 
 @media (max-width: 767px) {
