@@ -26,6 +26,6 @@ Nature is a big passion of mine, and I am a mountaineering enthusiast. During my
 
   {{< figure link="/images/mountain_1.jpg" thumb="-thumb" caption="Mountaineering in the Himalayas" alt="Mountaineering in the Himalayas" >}}
   {{< figure link="/images/mountain_2.jpg" thumb="-thumb" caption="Reaching the peak of Mount Surya" alt="In an expedition with TATA Steel, our team successfully climbed Mount Surya, 4.200 metres above sea level.">}}
-    {{< figure link="/images/mountain_4.jpg" thumb="-thumb" caption="With Bachendri Pal, first Indian woman to climb Mt. Everest" alt="In an expedition with TATA Steel, our team successfully climbed Mount Surya, 4.200 metres above sea level.">}}
+    {{< figure link="/images/mountain_5.jpeg" thumb="-thumb"  caption="Hiking in snow shoes around Matterhorn, Switzerland.">}}
 {{< /gallery >}}
 
