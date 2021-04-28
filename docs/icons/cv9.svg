@@ -1,0 +1,18 @@
+<svg width="512.003" height="512.003" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_47" d="m0.099448,249.579465c-0.000001,-294.313171 -42.274132,-249.541195 256.391346,-249.541195c298.665478,0 254.434161,-39.879011 255.412754,257.369939c0.978593,297.24895 38.359759,256.391345 -255.412754,255.412752c-293.772513,-0.978593 -256.391345,31.071675 -256.391346,-263.241496z" stroke-opacity="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null" stroke="null" fill-opacity="null" fill="#ff8f00"/>
+  <rect transform="matrix(2.1616184795298476,0,0,1.5237086166623233,-223.51958238932542,-288.46755921461005) " id="svg_11" fill="#003c31" height="30" width="196" y="468.442765" x="124.616532"/>
+  <rect transform="matrix(2.1616184795298476,0,0,1.5237086166623233,-223.51958238932542,-288.46755921461005) " id="svg_38" fill="#003c31" height="30" width="196" y="358.619022" x="125.069246"/>
+  <rect transform="matrix(2.1616184795298476,0,0,1.5237086166623233,-223.51958238932542,-288.46755921461005) " id="svg_39" fill="#003c31" height="30" width="196" y="414.494259" x="125.069246"/>
+  <rect stroke="null" id="svg_41" height="176.146721" width="176.146727" y="39.181988" x="294.655915" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="#003c31"/>
+  <rect id="svg_42" height="8.807336" width="0.978593" y="178.142182" x="407.194101" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#003c31"/>
+  <path id="svg_48" d="m254.533606,54.839474l-61.750788,19.533592l61.750788,-19.533592z" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ff8f00"/>
+  <path d="m122.423561,186.949524c0,0 5.473145,2.061172 11.743111,6.850143c7.698792,5.88031 13.918274,12.451599 17.614685,15.657486c3.136505,2.720276 4.89296,4.89296 4.89296,4.89296c0.978592,0.978592 0.978592,0.978592 0.978592,1.957199l0,0" id="svg_49" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="none"/>
+ </g>
+</svg>
