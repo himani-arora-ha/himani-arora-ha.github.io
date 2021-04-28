@@ -354,6 +354,7 @@ header {
   float: left;
   position: fixed;
   overflow-y:scroll;
+  height: 95%;
   -webkit-font-smoothing: subpixel-antialiased; }
 
 
