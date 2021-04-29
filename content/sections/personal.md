@@ -1,7 +1,9 @@
 
-I am fluent in Hindi, English, and German.
+Language fluency in Hindi, English, and German.
 
-Since 2017, I am part of the amazing <a href="https://peaceslam.com/" target="_blank"> Peace Slam Project</a>: We are a group of young internationals in Dresden and pitch our idea of peace, tolerance, and intercultural understanding to diverse audiences, for example at schools, local companies, and cultural festivals. One highlight was in 2018, where I slammed, in German, in front of more than 1,000 people at Palaissommer Dresden.
+Check out the amazing amazing <a href="https://peaceslam.com/" target="_blank"> Peace Slam Project</a>, of which I am a proud member.
+
+
 <p>
 	{{< gallery >}}
     {{< figure link="/images/peaceslam_6.jpg" thumb="-thumb" caption="Presenting my peace slam.">}}
@@ -10,8 +12,8 @@ Since 2017, I am part of the amazing <a href="https://peaceslam.com/" target="_b
 {{< /gallery >}}
  </p>
 
+Former player of Belgium National Women’s Cricket Team
 
-I love sports and am a former player for the National Women's Cricket Team of Belgium. I also enjoy badminton, swimming, and cycling.
 <p> 
 {{< gallery >}}
   {{< figure link="/images/cricket_1.jpg" thumb="-thumb" caption="Celebrating a high-score shot"  >}}
@@ -19,7 +21,8 @@ I love sports and am a former player for the National Women's Cricket Team of Be
     {{< figure link="/images/cycling.jpg" thumb="-thumb" caption="During a 120km cycling tour in Belgium">}}
 {{< /gallery >}}
 </p>
-Nature is a big passion of mine, and I am a mountaineering enthusiast. During my time at TATA Steel, I took part in an expedition to Surya Top in Himalayas (4,200 meters above sea level) with Ms. Bachendri Pal (first Indian woman to climb Mt. Everest).
+
+Mountaineering enthusiast. Expedition to Surya Top in Himalayas (4,200 meters above sea level) with Ms. Bachendri Pal (first Indian woman to climb Mt. Everest).
 
 <p> 
 {{< gallery >}}
