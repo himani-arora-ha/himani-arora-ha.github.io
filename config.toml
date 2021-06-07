@@ -12,7 +12,7 @@ canonifyURLs = true
 
 [params]
 	author = "Dr. Himani Arora"
-	 sitename = "Personal Website of Dr. Himani Arora"
+	sitename = "Website"
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
     shortbio2 = "2D Materials | vdW heterostructures | nanoelectronics | opto-electronics"
