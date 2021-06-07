@@ -3,8 +3,16 @@ title = "Dr. Himani Arora"
 theme = ["academimal"]
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
-ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+ignorefiles = [ "hugo_travis_ci", ".travis.yml", "make.sh" ]
+
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+
 [params]
+	author = "Dr. Himani Arora"
+	 sitename = "Personal Website of Dr. Himani Arora"
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
     shortbio2 = "2D Materials | vdW heterostructures | nanoelectronics | opto-electronics"
