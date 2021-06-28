@@ -7,8 +7,9 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml", "make.sh" ]
 
 enableEmoji = true
 enableGitInfo = true
-enableRobotsTXT = true
 canonifyURLs = true
+
+disableKinds = ["sitemap"]
 
 [params]
 	author = "Dr. Himani Arora"
