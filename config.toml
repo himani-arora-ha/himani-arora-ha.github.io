@@ -17,7 +17,7 @@ enableRobotsTXT = true
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
     shortbio2 = "2 years of Postdoc experience"
-    shortbio3 = "ultra-thin semiconductors | 2D Materials |  nanoelectronics | opto-electronics"
+    shortbio3 = "ultra-thin semiconductors | 2D materials |  nanoelectronics | opto-electronics"
     
 [markup]
   [markup.goldmark]
