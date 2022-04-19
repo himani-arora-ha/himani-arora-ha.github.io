@@ -8,12 +8,12 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml", "make.sh" ]
 enableEmoji = true
 enableGitInfo = true
 canonifyURLs = true
+enableRobotsTXT = true
 
-disableKinds = ["sitemap"]
 
 [params]
 	author = "Dr. Himani Arora"
-	sitename = "Website"
+	sitename = "Personal website of Dr. Himani Arora"
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
     shortbio2 = "2 years of Postdoc experience"
