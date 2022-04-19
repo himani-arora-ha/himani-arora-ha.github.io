@@ -16,7 +16,8 @@ enableRobotsTXT = true
 	sitename = "Personal website of Dr. Himani Arora"
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
-    shortbio2 = "2 years of Postdoc experience - ultra-thin semiconductors | 2D Materials |  nanoelectronics | opto-electronics"
+    shortbio2 = "2 years of Postdoc experience"
+    shortbio3 = "ultra-thin semiconductors | 2D Materials |  nanoelectronics | opto-electronics"
     
 [markup]
   [markup.goldmark]
