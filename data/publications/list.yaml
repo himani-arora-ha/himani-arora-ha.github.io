@@ -43,6 +43,11 @@ works:
 
 
 
+- title: "Charge transport in two-dimensional materials and their electronic applications"
+  pdflink: "https://himani-arora-ha.github.io/pdf/Dissertation.pdf"
+  book: "Doctoral Dissertation (2020)"
+  coauthors: 
+    - Himani Arora
 
 - title: "Photoluminescence dynamics in few-layer InSe"
   pdflink: "https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.044001"
@@ -205,4 +210,6 @@ works:
     - M. B. N. Raju
     - A. Dey
     - S. Suresh
+
+
 
