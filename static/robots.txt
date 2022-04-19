@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://himani-arora-ha.github.io/sitemap.txt

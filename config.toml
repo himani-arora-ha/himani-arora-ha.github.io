@@ -15,7 +15,8 @@ canonifyURLs = true
 	sitename = "Website"
     logo = "himani-arora-profile.jpeg" 
     shortbio = "Ph.D. in Applied Physics"
-    shortbio2 = "2D Materials | vdW heterostructures | nanoelectronics | opto-electronics"
+    shortbio2 = "2 years of Postdoc experience"
+    shortbio3 = "ultra-thin semiconductors | 2D Materials |  nanoelectronics | opto-electronics"
     
 [markup]
   [markup.goldmark]

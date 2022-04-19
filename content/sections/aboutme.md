@@ -1,4 +1,4 @@
-I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 and am currently working as a postdoctoral researcher at Helmholtz-Zentrum Dresden-Rossendorf <a href="https://www.hzdr.de/db/!ContMan.Visi.Card?pNid=2760&pUser=113526" target="_blank">(HZDR)</a>. Prior to that, I completed my Bachelor’s in Metallurgical Engineering from IIT-BHU (India) and Master’s in Advanced Functional Materials, jointly from the University of Augsburg (Germany) and the Institut polytechnique de Grenoble (France) under Erasmus Mundus Scholarship Program.
+I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 (specialization in ultra-thin semiconductors and their electronic applications). Prior to that, I completed my Bachelor’s in Metallurgical Engineering from IIT-BHU (India) and Master’s in Advanced Functional Materials, jointly from the University of Augsburg (Germany) and the Institut polytechnique de Grenoble (France) under Erasmus Mundus Scholarship Program.
 
 My research is focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors). 
 
