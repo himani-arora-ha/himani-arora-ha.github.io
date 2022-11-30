@@ -18,6 +18,51 @@ works:
     Black phosphorus (BP) has quickly gained popularity in the scientific community owing to its interesting semiconducting properties, such as direct bandgap, high mobility, and intrinsic ambipolar behavior. However, its sensitivity to oxygen, moisture, and other air species has restricted its integration into active devices. Here, the lithography-free via-encapsulation scheme to fabricate fully-encapsulated BP-based field-effect transistors (FETs) is employed. The full encapsulation is achieved by sandwiching the BP layers between the top and bottom hexagonal boron nitride (hBN) layers; top hBN passivating the BP layer from the environment and bottom hBN acting as a spacer and suppressing charge transfer to the BP layer from the SiO2 substrate. The embedded via-metal electrodes allow the authors to perform reliable electrical measurements of the BP FETs. Based on these results, it is found that the electronic properties of the via-encapsulated BP FETs are significantly improved compared to unencapsulated devices. This further establishes that the via-contacting scheme leads to superior results compared to graphene-hBN heterostructures and bare hBN layers combined with evaporated metal contacts (both use top and bottom hBN to encapsulate BP) by revealing higher mobility, lower hysteresis, and long-term ambient-stability in BP FETs.
 
 
+- title: "Terahertz control of photoluminescence emission in few-layer InSe"
+  pdflink: "https://aip.scitation.org/doi/full/10.1063/5.0080784"
+  book: "Applied Physics Letters 120, 092104 (2022)"
+  coauthors:
+  - Tommaso Venanzi
+  - Malte Selig
+  - Alexej Pashkin
+  - Stephan Winnerl
+  - Manuel Katzer
+  - Himani Arora
+  - Artur Erbe
+  - Amalia Patanè
+  - Zakhar R Kudrynskyi
+  - Zakhar D Kovalyuk
+  - Leonetta Baldassarre
+  - Andreas Knorr
+  - Manfred Helm
+  - Harald Schneider
+  links:
+  abstract: >
+    A promising route for the development of opto-electronic technology is to use terahertz radiation to modulate the optical properties of semiconductors. Here, we demonstrate the dynamical control of photoluminescence (PL) emission in few-layer InSe using picosecond terahertz pulses. We observe a strong PL quenching (up to 50%) after the arrival of the terahertz pulse followed by a reversible recovery of the emission on the timescale of 50 ps at T=10 K. Microscopic calculations reveal that the origin of the photoluminescence quenching is the terahertz absorption by photo-excited carriers. this leads to a heating of the carriers and a broadening of their distribution, which reduces the probability of bimolecular electron-hole recombination and, therefore, the luminescence. By numerically evaluating the Boltzmann equation, we are able to clarify the individual roles of optical and acoustic phonons in the subsequent cooling process. The same PL quenching mechanism is expected in other van der Waals semiconductors, and the effect will be particularly strong for materials with low carrier masses and long carrier relaxation time, which is the case for InSe. This work gives a solid background for the development of opto-electronic applications based on InSe, such as THz detectors and optical modulators.
+
+
+- title: "Electrical Characterization of Germanium Nanowires Using a Symmetric Hall Bar Configuration: Size and Shape Dependence"
+  pdflink: "https://www.mdpi.com/2079-4991/11/11/2917"
+  book: "Nanomaterials 11(11), 2917 (2021)"
+  coauthors:
+  - Ahmad Echresh
+  - Himani Arora
+  - Florian Fuchs
+  - Zichao Li
+  - René Hübner
+  - Slawomir Prucnal
+  - Jörg Schuster
+  - Peter Zahn
+  - Manfred Helm
+  - Shengqiang Zhou
+  - Artur Erbe
+  - Lars Rebohle
+  - Yordan M Georgiev
+  links:
+  abstract: >
+    The fabrication of individual nanowire-based devices and their comprehensive electrical characterization remains a major challenge. Here, we present a symmetric Hall bar configuration for highly p-type germanium nanowires (GeNWs), fabricated by a top-down approach using electron beam lithography and inductively coupled plasma reactive ion etching. The configuration allows two equivalent measurement sets to check the homogeneity of GeNWs in terms of resistivity and the Hall coefficient. The highest Hall mobility and carrier concentration of GeNWs at 5 K were in the order of 100 cm2/(Vs) and 4×1019cm−3, respectively. With a decreasing nanowire width, the resistivity increases and the carrier concentration decreases, which is attributed to carrier scattering in the region near the surface. By comparing the measured data with simulations, one can conclude the existence of a depletion region, which decreases the effective cross-section of GeNWs. Moreover, the resistivity of thin GeNWs is strongly influenced by the cross-sectional shape.
+
+
 - title: "Demonstration of a Broadband Photodetector Based on a Two‐Dimensional Metal–Organic Framework"
   pdflink: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201907063"
   book: "Advanced Materials 32 (9), 1907063 (2020)"
