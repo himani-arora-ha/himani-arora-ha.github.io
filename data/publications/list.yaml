@@ -1,5 +1,23 @@
 works:
 
+
+- title: "Fully Encapsulated and Stable Black Phosphorus Field-Effect Transistors"
+  pdflink: "https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202200546"
+  book: "Advanced Materials Technologies 2200546, (2022)"
+  coauthors:
+  - Himani Arora
+  - Zahra Fekri
+  - Yagnika Nandlal Vekariya
+  - Phanish Chava
+  - Kenji Watanabe
+  - Takashi Taniguchi
+  - Manfred Helm
+  - Artur Erbe
+  links:
+  abstract: >
+    Black phosphorus (BP) has quickly gained popularity in the scientific community owing to its interesting semiconducting properties, such as direct bandgap, high mobility, and intrinsic ambipolar behavior. However, its sensitivity to oxygen, moisture, and other air species has restricted its integration into active devices. Here, the lithography-free via-encapsulation scheme to fabricate fully-encapsulated BP-based field-effect transistors (FETs) is employed. The full encapsulation is achieved by sandwiching the BP layers between the top and bottom hexagonal boron nitride (hBN) layers; top hBN passivating the BP layer from the environment and bottom hBN acting as a spacer and suppressing charge transfer to the BP layer from the SiO2 substrate. The embedded via-metal electrodes allow the authors to perform reliable electrical measurements of the BP FETs. Based on these results, it is found that the electronic properties of the via-encapsulated BP FETs are significantly improved compared to unencapsulated devices. This further establishes that the via-contacting scheme leads to superior results compared to graphene-hBN heterostructures and bare hBN layers combined with evaporated metal contacts (both use top and bottom hBN to encapsulate BP) by revealing higher mobility, lower hysteresis, and long-term ambient-stability in BP FETs.
+
+
 - title: "Demonstration of a Broadband Photodetector Based on a Two‐Dimensional Metal–Organic Framework"
   pdflink: "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201907063"
   book: "Advanced Materials 32 (9), 1907063, (2020)"
