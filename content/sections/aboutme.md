@@ -1,11 +1,10 @@
-I am a Process Engineer at Applied Materials, Inc., Santa Clara, CA.
+I am a Senior Process Engineer at Applied Materials Inc. in Santa Clara, CA. I help drive innovation in semiconductor manufacturing through precision epitaxy - where atomic layers are engineered to meet the performance demands of next-generation technologies. 
 
 I received my Ph.D. in Physics from TU Dresden (Germany) in 2020 (specialization in ultra-thin semiconductors and their electronic applications). Prior to that, I completed my Bachelor’s in Metallurgical Engineering from IIT-BHU (India) and Master’s in Advanced Functional Materials, jointly from the University of Augsburg (Germany) and the Institut polytechnique de Grenoble (France) under Erasmus Mundus Scholarship Program.
 
-My research is focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors). 
+My Ph.D. research focused on the characterization and integration of nanoscale materials and their heterostructures into electronic devices (transistors, photodetectors, and sensors). 
 
-During my career, I have worked at world-renowned organizations in India, Europe, and the United States. Leading (sometimes) inter-disciplinary and multinational teams has enabled me to quickly learn new methods and smoothly integrate into new environments. I am a firm believer that learning continues throughout one’s life. Hence, I try to indulge myself in new challenges and to hone new skills to broaden my abilities and limits.
-
+I have worked at leading organizations in India, Europe, and the United States, gaining experience across diverse teams and technical environments. I have contributed to developing and scaling semiconductor processes for the most advanced chips in the world. I value continuous learning and enjoy taking on new challenges that help me grow as an engineer.
 
 
 {{< load-photoswipe >}}

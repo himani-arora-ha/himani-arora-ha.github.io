@@ -1,5 +1,47 @@
 works:
 
+- title: "High-Performance and Ultrafast Single Germanium Nanowire Photodetectors"
+  pdflink: "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adom.202403097"
+  book: "Advanced Optical Materials 13(13), 2403097 (2025)"
+  coauthors:
+    - Ahmad Echresh
+    - Mohd Saif Shaikh
+    - Mircea Traian Catuneanu
+    - Himani Arora
+    - Shengqiang Zhou
+    - Artur Erbe
+    - Manfred Helm
+    - Lars Rebohle
+    - Kambiz Jamshidi
+    - Yonder Berencén
+    - Yordan M. Georgiev
+  links:
+  abstract: >
+    Semiconductor nanowire-based photodetectors with high sensitivity and fast photoresponse in the near-infrared wavelength range are crucial for applications in light-wave communication switches, as well as environmental and atmospheric sensing. However, to advance this field, it is essential to develop innovative fabrication techniques that improve device performance. Here, the fabrication of an axial p–n junction along single germanium nanowires (Ge NWs) and their photoresponse characterization at near-infrared wavelengths are reported. The resulting devices exhibit rectifying current–voltage characteristics with a high rectification ratio in dark conditions and operate with high sensitivity at zero bias under illumination. A high responsivity of 1.72 AW−1, a low noise-equivalent power of 5.68 × 10⁻¹¹ W/√Hz, and a high-frequency response with a 3dB cut-off frequency of 2.85 GHz are determined under 850 nm laser illumination at reverse bias. The high sensitivity of the Ge NW-based photodetectors is ascribed to the radial built-in electric field, which increases the carrier lifetime. In addition, the small size of the Ge NWs results in very small capacitance, leading to very fast response. These results have significant potential for advancing high-speed and low-power photodetectors in next-generation optical communication systems and integrated optoelectronic devices.
+
+
+
+- title: "Carrier dynamics in InSe and the impact of terahertz pulses"
+  pdflink: "https://ieeexplore.ieee.org/abstract/document/9895949"
+  book: "2022 47th International Conference on Infrared, Millimeter and Terahertz Waves (IRMMW-THz), pp. 1–2"
+  coauthors:
+    - T. Venanzi
+    - M. Selig
+    - A. Pashkin
+    - S. Winnerl
+    - M. Katzer
+    - H. Arora
+    - A. Erbe
+    - A. Patanè
+    - Z. R. Kudrynskyi
+    - Z. D. Kovalyuk
+    - L. Baldassarre
+    - A. Knorr
+    - M. Helm
+    - H. Schneider
+  links:
+  abstract: >
+    [Add abstract here, if desired.]
 
 - title: "Fully Encapsulated and Stable Black Phosphorus Field-Effect Transistors"
   pdflink: "https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202200546"
